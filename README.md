@@ -1,3 +1,5 @@
+# JobAppProject
+
 # Kütüphaneler
 
 - react-icons
@@ -14,4 +16,4 @@
 en son üçünü doldurduktan sonra verilerini state'te tutup  verilerini birlikte göndermemiz lazım
  f.h düşün
 
--silme butonu ve düzenleme butonu koy iş listesi için# JobAppProject
+-Add edit button for joblist
